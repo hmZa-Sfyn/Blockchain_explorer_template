@@ -1,0 +1,10 @@
+{
+  "total_blocks": 2,
+  "total_transactions": 25,
+  "active_miners": 2,
+  "active_accounts": 3,
+  "current_gas_fee": 0.001,
+  "network_hash_rate": "150 TH/s",
+  "difficulty": "5.23 T",
+  "last_block_time": "2025-01-08T12:05:00Z"
+}

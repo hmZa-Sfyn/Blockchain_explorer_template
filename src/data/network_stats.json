@@ -1,0 +1,9 @@
+{
+  "total_blocks": 1000000,
+  "total_transactions": 5000000,
+  "active_miners": 150,
+  "active_accounts": 25000,
+  "current_gas_fee": 0.0015,
+  "network_hash_rate": "150 TH/s",
+  "difficulty": 2500000
+}

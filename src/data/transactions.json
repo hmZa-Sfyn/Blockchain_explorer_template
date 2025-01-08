@@ -1,0 +1,22 @@
+[
+  {
+    "transaction_hash": "0xTx001",
+    "from": "0xAccount123",
+    "to": "0xAccount456",
+    "amount": 1.2,
+    "currency": "ETH",
+    "gas_fee": 0.001,
+    "status": true,
+    "timestamp": "2025-01-08T12:01:00Z"
+  },
+  {
+    "transaction_hash": "0xTx002",
+    "from": "0xAccount789",
+    "to": "0xAccount456",
+    "amount": 0.5,
+    "currency": "ETH",
+    "gas_fee": 0.0005,
+    "status": true,
+    "timestamp": "2025-01-08T12:06:00Z"
+  }
+]
